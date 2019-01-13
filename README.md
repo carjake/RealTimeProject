@@ -39,8 +39,7 @@ Expesive sensor price
  3. Driver Attention Lose Control
  
  link: https://www.youtube.com/watch?v=oVxRCUhbAMI
- 
-       https://www.youtube.com/watch?v=bZnJxowfPF8
+ link: https://www.youtube.com/watch?v=bZnJxowfPF8
        
        
 
