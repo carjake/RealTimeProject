@@ -15,6 +15,25 @@ PROS: Easy control system (just a threshold), easy warning (maybe a light).
 
 CONS: connection between devide and raspberry PI.
 
+
+System Configuration
+  
+- SODIAL(R) Pulse Sensor can measure ECG by touching finger. 
+ 
+  ![123234](https://user-images.githubusercontent.com/46483800/51086736-2c4c7780-1742-11e9-94d0-ce5760728c73.JPG)
+  
+-  The sensor is built in steering wheel like below.
+
+![asdfsadfds](https://user-images.githubusercontent.com/46483800/51086779-b1379100-1742-11e9-9c3c-06a60248d4dc.JPG)
+
+
+- When driver grabs the part of wheel, the sensor measures ECG. 
+
+- SODIAL(R) Pulse Sensor is connected with A/D converter and this converter sends digital data to Raspberry Pi. 
+
+Useful link : https://tutorials-raspberrypi.com/raspberry-pi-heartbeat-pulse-measuring/
+
+
 --------------------------------------------------------------------------------------------------------------------------
 2. Diabetes and Driving
 
