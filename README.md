@@ -25,17 +25,19 @@ Use a smartwatch or something that can measure the heartbeat rate from a driver 
 
 Useful link : https://tutorials-raspberrypi.com/raspberry-pi-heartbeat-pulse-measuring/
 
-2. Diabetes and Driving
+  2. Diabetes and Driving
 
-- Current Limitation 
- 1) Only can measure transient blood sugar 
- 
- 2) Blood-gathering method 
- 
- 3) Expesive sensor price 
- 
+Current Limitation 
 
-3. Driver Attention Lose Control
+Only can measure transient blood sugar 
+ 
+Blood-gathering method 
+ 
+Expesive sensor price 
+ 
+ 
+ 3. Driver Attention Lose Control
+ 
  link: https://www.youtube.com/watch?v=oVxRCUhbAMI
  
        https://www.youtube.com/watch?v=bZnJxowfPF8
